@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about solving real-world problems through c
   - 🧠 [Fake Review Detector](https://github.com/devgupta111/Fake-Review-Detector) — An **AI/ML project** to detect fake product reviews using NLP
   - 📊 [Entrepreneurship in India](https://github.com/devgupta111/Entrepreneurship-in-India) — A **research project** exploring startup trends and business data
 - 💞️ I’m looking to collaborate on **React-based apps, open-source tools, and DSA-focused coding challenges**
-- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/)** or email: **devgupta111@example.com**
+- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/)**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy breaking down complex coding problems into elegant solutions.
 
