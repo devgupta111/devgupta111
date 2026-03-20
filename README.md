@@ -1,22 +1,56 @@
 # 👋 Hi there, I'm Dev Gupta (@devgupta111)
 
-Welcome to my GitHub! I'm passionate about solving real-world problems through code. I love diving deep into **Data Structures & Algorithms** and building engaging **web applications**.
+🚀 B.Tech CSE (Data Science & AI) student passionate about building **real-world AI systems**, scalable applications, and solving meaningful problems through technology.
 
-- 👀 I’m interested in **DSA, web development, and AI/ML**
-- 🌱 I’m currently learning **React, Node.js, and exploring cloud deployment**
-- 💼 Some of my projects:
-  - 🍔 [Food Ordering Website - Food Costa](https://github.com/devgupta111/Food-Ordering-Website--Food-Costa) — A web app simulating an online food delivery system
-  - 🧠 [Fake Review Detector](https://github.com/devgupta111/Fake-Review-Detector) — An **AI/ML project** to detect fake product reviews using NLP
-  - 📊 [Entrepreneurship in India](https://github.com/devgupta111/Entrepreneurship-in-India) — A **research project** exploring startup trends and business data
-- 💞️ I’m looking to collaborate on **React-based apps, open-source tools, and DSA-focused coding challenges**
-- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/)**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy breaking down complex coding problems into elegant solutions.
+---
 
-Thanks for visiting! 🌟
+## 🔍 About Me
+- 🤖 Interested in **AI/ML, Generative AI, and AI Systems Engineering**
+- ⚙️ Focused on building **scalable, real-world AI solutions**
+- 🌱 Currently exploring **cloud deployment, system design, and model optimization**
+- 💡 Strong foundation in **DSA, backend development, and problem-solving**
 
+---
 
-<!---
-devgupta111/devgupta111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+- **Web:** React.js, Node.js, Express  
+- **Databases:** MongoDB, MySQL, Firebase  
+- **Tools:** Git, REST APIs  
+
+---
+
+## 💼 Projects
+- 🧠 **[Fake Review Detector](https://github.com/devgupta111/Fake-Review-Detector)**  
+  NLP-based ML system to detect fake reviews using real-world datasets  
+
+- 📊 **Mental Health Analysis**  
+  Web scraping + ML models to analyze mental health trends from dynamic data  
+
+- 📅 **Adaptive Study Planner**  
+  AI-based planner using A* search & constraint-based scheduling  
+
+- 🍔 **[Food Costa](https://github.com/devgupta111/Food-Ordering-Website--Food-Costa)**  
+  Full-stack food ordering web application  
+
+---
+
+## 💼 Experience
+- 💻 **Web Development Intern @ Verto Bizserv Pvt. Ltd.**  
+  Built a role-based recruitment platform (React + Firebase)
+
+- 🧠 **Web Intern @ FURNO AI**  
+  Worked on AI + AR-powered interior design platform features  
+
+---
+
+## 🤝 Open to Collaborate
+- AI/ML & **GenAI projects**
+- Full-stack applications  
+- Open-source contributions  
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning complex problems into **simple, scalable solutions** 🚀
