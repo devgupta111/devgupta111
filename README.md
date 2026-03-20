@@ -25,10 +25,10 @@
 - 🧠 **[Fake Review Detector](https://github.com/devgupta111/Fake-Review-Detector)**  
   NLP-based ML system to detect fake reviews using real-world datasets  
 
-- 📊 **Mental Health Analysis**  
+- 📊 **[Mental Health Analysis](https://github.com/devgupta111/Mental-Health-Analysis-BDA)**  
   Web scraping + ML models to analyze mental health trends from dynamic data  
 
-- 📅 **Adaptive Study Planner**  
+- 📅 **[Adaptive Study Planner](https://github.com/devgupta111/Ai-Adaptive-Study-Planner)**  
   AI-based planner using A* search & constraint-based scheduling  
 
 - 🍔 **[Food Costa](https://github.com/devgupta111/Food-Ordering-Website--Food-Costa)**  
