@@ -184,37 +184,6 @@ Full-stack food ordering web application with a clean, responsive UI.
 </tr>
 </table>
 
----
-
-## 🏅 Achievements
-
-```
-🎓  IBM Certified  →  Python for Data Science, AI & Development (Coursera)
-🤖  Certified      →  AI For Everyone — Andrew Ng / Coursera
-🏆  Recognized     →  Hostel Buddy 2025–26 (selected from 67 shortlisted)
-🏓  Leadership     →  Table Tennis Team Captain (Nov 2025 – Nov 2026)
-📜  Certified      →  Internship Completion — Verto Bizserv Pvt. Ltd. (2025)
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devgupta111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgupta111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devgupta111&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="60%"/>
-
-</div>
-
----
-
 ## 🤝 Open to Collaborate On
 
 <div align="center">
