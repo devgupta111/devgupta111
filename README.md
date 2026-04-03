@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dev%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%E2%80%94%20Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<h1>Dev Gupta</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%E2%80%94+Data+Science+%26+Artificial+Intelligence+%7C+2023-2027" alt="subtitle"/>
 
 </div>
 <div align="center">
@@ -198,6 +200,6 @@ Full-stack food ordering web application with a clean, responsive UI.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+— Built with ❤️ by Dev Gupta —
 
 </div>
