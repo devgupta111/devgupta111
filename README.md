@@ -42,7 +42,6 @@ interests  :
 currently  :
   - Exploring model optimization & cloud deployment
   - Building real-world AI-powered products
-  - Web Development Intern @ FURNO AI (AI + AR Interior Design)
 ```
 
 ---
