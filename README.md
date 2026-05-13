@@ -163,22 +163,15 @@ AI-based planner generating optimized learning schedules using A* search algorit
 <tr>
 <td width="50%">
 
-### 🕵️ Fake Review Detector
-`Python · NLP · Machine Learning`
+### 🧠 Mental Health Analysis
+`Python · Selenium · BeautifulSoup · Scikit-learn · Pandas`
 
-NLP-powered ML system to identify fake reviews using real-world datasets.
+Web scraping + ML models to analyze mental health trends from dynamic real-world data.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/Fake-Review-Detector)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/Mental-Health-Analysis-BDA)
 
 </td>
 <td width="50%">
-
-### 🍔 Food Costa
-`React · Node.js · Express · MongoDB`
-
-Full-stack food ordering web application with a clean, responsive UI.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/Food-Ordering-Website--Food-Costa)
 
 </td>
 </tr>
