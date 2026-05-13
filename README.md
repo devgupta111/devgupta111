@@ -66,7 +66,7 @@ currently  :
 
 </div>
 
-> `Scikit-learn` · `Pandas` · `NumPy` · `Hugging Face`
+> `Scikit-learn` · `Pandas` · `NumPy` · `Hugging Face` · `NLTK` · `Transformers`
 
 ---
 
@@ -96,8 +96,8 @@ currently  :
 
 ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-6366f1?style=for-the-badge&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-Database%20Management-06b6d4?style=for-the-badge&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Operating%20Systems-10b981?style=for-the-badge&logoColor=white)
-![CN](https://img.shields.io/badge/CN-Computer%20Networks-f59e0b?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-a78bfa?style=for-the-badge&logoColor=white)
+![ML](https://img.shields.io/badge/ML-Machine%20Learning-10b981?style=for-the-badge&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-APIs-ec4899?style=for-the-badge&logoColor=white)
 ![SD](https://img.shields.io/badge/System%20Design-Basics-8b5cf6?style=for-the-badge&logoColor=white)
 
@@ -112,17 +112,16 @@ currently  :
 <td width="50%">
 
 ### 🧠 FURNO AI
-**Web Development Intern**
+**Web Development Intern** · [Live ↗](https://furnoaireplica.netlify.app/)
 `Feb 2026 – Apr 2026`
 
 - Developed web features for an AI & AR-powered interior design platform
-- Integrated 3D generation and intelligent layout planning modules
 
 </td>
 <td width="50%">
 
 ### 🏢 Verto Bizserv Pvt. Ltd.
-**Web Development Intern** · [Live ↗](https://vertobizserv.com)
+**Web Development Intern** · [Live ↗](https://verto-bizserv.web.app/)
 `Jun 2025 – Aug 2025`
 
 - Built an HR-to-HR recruitment platform with React.js & Firebase
@@ -140,12 +139,13 @@ currently  :
 <tr>
 <td width="50%">
 
-### 🧠 Mental Health Analysis
-`Python · Selenium · BeautifulSoup · Scikit-learn · Pandas`
+### 📰 SatyaAI — Fake News Detector
+`Python · XLM-RoBERTa · Scikit-learn · Groq LLaMA · Streamlit`
 
-Web scraping + ML models to analyze mental health trends from dynamic real-world data.
+Cross-lingual fact-checking system for English, Hindi & Hinglish claims using transformer ensemble + real-time news evidence.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/Mental-Health-Analysis-BDA)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/SatyaAI-Fake-News-Detector)
+[![Live](https://img.shields.io/badge/Live-Demo-10b981?style=flat-square&logo=vercel)](https://satya-ai-fake-news-detector-by-dev-gupta.streamlit.app/)
 
 </td>
 <td width="50%">
