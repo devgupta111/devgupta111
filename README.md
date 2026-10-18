@@ -27,6 +27,8 @@
 
 ## 🧬 About Me
 
+> Generative AI Engineer with expertise in developing LLM-powered applications, multimodal RAG systems, AI agents, and scalable AI-driven platforms utilizing LangChain, LangGraph, vector databases, and modern full-stack technologies. Proficient in fine-tuning models, designing production-ready AI workflows, and addressing real-world challenges through applied AI, automation, and intelligent systems employing Python and cloud-ready development.
+
 ```yaml
 name       : Dev Gupta
 degree     : B.Tech CSE — Data Science & AI (2023–2027)
@@ -139,13 +141,12 @@ currently  :
 <tr>
 <td width="50%">
 
-### 📰 SatyaAI — Fake News Detector
-`Python · XLM-RoBERTa · Scikit-learn · Groq LLaMA · Streamlit`
+### 🎓 LearnVault — Personal AI Learning Assistant
+`Python · FastAPI · Next.js · Qdrant · Groq · RAG`
 
-Cross-lingual fact-checking system for English, Hindi & Hinglish claims using transformer ensemble + real-time news evidence.
+Agentic full-stack learning assistant that answers questions grounded in uploaded notes with page-level citations, using a bounded 4-agent RAG pipeline and adaptive auto-graded quizzes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/SatyaAI-Fake-News-Detector)
-[![Live](https://img.shields.io/badge/Live-Demo-10b981?style=flat-square&logo=vercel)](https://satya-ai-fake-news-detector-by-dev-gupta.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/devgupta111/LEARNVAULT-Personal-AI-Learning-Assistant)
 
 </td>
 <td width="50%">
